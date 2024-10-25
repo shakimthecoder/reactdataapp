@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.vh-item {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid black;
+  justify-content: space-evenly;
+}
